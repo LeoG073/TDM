@@ -6,24 +6,24 @@ Version 2
 {
 brushDef3
 {
-( 0 0 1 -64 ) ( ( 0.0195312497089617 0 0 ) ( 0 0.0195312497089617 0 ) ) "textures/darkmod/wood/boards/crate01" 0 0 0
-( 0 1 0 0 ) ( ( 0.0195312497089617 0 0 ) ( 0 0.0195312497089617 0 ) ) "textures/darkmod/wood/boards/crate01" 0 0 0
-( 1 0 0 -64 ) ( ( 0.0195312497089617 0 0 ) ( 0 0.0195312497089617 0 ) ) "textures/darkmod/wood/boards/crate01" 0 0 0
-( 0 0 -1 0 ) ( ( 0.0195312497089617 0 0 ) ( 0 0.0195312497089617 0 ) ) "textures/darkmod/wood/boards/crate01" 0 0 0
-( 0 -1 0 -64 ) ( ( 0.0195312497089617 0 0 ) ( 0 0.0195312497089617 0 ) ) "textures/darkmod/wood/boards/crate01" 0 0 0
-( -1 0 0 0 ) ( ( 0.0195312497089617 0 0 ) ( 0 0.0195312497089617 0 ) ) "textures/darkmod/wood/boards/crate01" 0 0 0
-}
-}
-// primitive 1
-{
-brushDef3
-{
 ( 0 0 1 -64 ) ( ( 0.01953100040555 0 0 ) ( 0 0.01953100040555 1.4062320291996 ) ) "textures/darkmod/wood/boards/crate01" 0 0 0
 ( 0 1 0 0 ) ( ( 0.01953100040555 0 -1.4062320291996 ) ( 0 0.01953100040555 0 ) ) "textures/darkmod/wood/boards/crate01" 0 0 0
 ( 1 0 0 8 ) ( ( 0.01953100040555 0 0 ) ( 0 0.01953100040555 0 ) ) "textures/darkmod/wood/boards/crate01" 0 0 0
 ( 0 0 -1 0 ) ( ( 0.01953100040555 0 0 ) ( 0 0.01953100040555 -1.4062320291996 ) ) "textures/darkmod/wood/boards/crate01" 0 0 0
 ( 0 -1 0 -64 ) ( ( 0.01953100040555 0 1.4062320291996 ) ( 0 0.01953100040555 0 ) ) "textures/darkmod/wood/boards/crate01" 0 0 0
 ( -1 0 0 -72 ) ( ( 0.01953100040555 0 0 ) ( 0 0.01953100040555 0 ) ) "textures/darkmod/wood/boards/crate01" 0 0 0
+}
+}
+// primitive 1
+{
+brushDef3
+{
+( 0 0 1 -164 ) ( ( 0.0195312497089617 0 0 ) ( 0 0.0195312497089617 0 ) ) "textures/darkmod/wood/boards/crate01" 0 0 0
+( 0 1 0 0 ) ( ( 0.0195312497089617 0 0 ) ( 0 0.0195312497089617 0 ) ) "textures/darkmod/wood/boards/crate01" 0 0 0
+( 1 0 0 -116 ) ( ( 0.0195312497089617 0 0 ) ( 0 0.0195312497089617 0 ) ) "textures/darkmod/wood/boards/crate01" 0 0 0
+( 0 0 -1 96 ) ( ( 0.0195312497089617 0 0 ) ( 0 0.0195312497089617 0 ) ) "textures/darkmod/wood/boards/crate01" 0 0 0
+( 0 -1 0 -64 ) ( ( 0.0195312497089617 0 0 ) ( 0 0.0195312497089617 0 ) ) "textures/darkmod/wood/boards/crate01" 0 0 0
+( -1 0 0 32 ) ( ( 0.0195312497089617 0 0 ) ( 0 0.0195312497089617 0 ) ) "textures/darkmod/wood/boards/crate01" 0 0 0
 }
 }
 }
