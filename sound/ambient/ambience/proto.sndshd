@@ -1,9 +1,0 @@
-proto_babyoffice
-{
-	editor_displayFolder	ambient/ambience
-
-    looping
-    no_efx
-
-    sound/ambient/ambience/proto_babyoffice.ogg
-}
