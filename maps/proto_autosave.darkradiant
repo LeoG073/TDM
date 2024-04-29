@@ -2,17 +2,23 @@ DarkRadiant Map Information File Version 2
 {
 	MapProperties
 	{
-		KeyValue { "EditTimeInSeconds" "8858" } 
+		KeyValue { "EditTimeInSeconds" "9074" } 
 		KeyValue { "LastCameraAngle" "6.71988 -11.951 0" } 
 		KeyValue { "LastCameraPosition" "0 0 30" } 
-		KeyValue { "LastShaderClipboardMaterial" "textures/darkmod/wood/boards/worn_02" } 
+		KeyValue { "LastShaderClipboardMaterial" "textures/darkmod/paint_paper/wallpaper_victorian_01" } 
 	}
 	SelectionSets
 	{
 	}
 	MapEditTimings
 	{
-		TotalSecondsEdited { 8858 }
+		TotalSecondsEdited { 9074 }
+	}
+	SelectionGroups
+	{
+	}
+	SelectionGroupNodeMapping
+	{
 	}
 	Layers
 	{
@@ -126,12 +132,6 @@ DarkRadiant Map Information File Version 2
 		Node { 0 } // brush (Brush)
 		Node { 0 } // brush (Brush)
 		Node { 0 } // brush (Brush)
-		Node { 0 } // brush (Brush)
-		Node { 0 } // brush (Brush)
-		Node { 0 } // brush (Brush)
-		Node { 0 } // brush (Brush)
-		Node { 0 } // brush (Brush)
-		Node { 0 } // brush (Brush)
 		Node { 0 } // patch (Patch)
 		Node { 0 } // brush (Brush)
 		Node { 0 } // brush (Brush)
@@ -140,7 +140,44 @@ DarkRadiant Map Information File Version 2
 		Node { 0 } // brush (Brush)
 		Node { 0 } // brush (Brush)
 		Node { 0 } // brush (Brush)
-		Node { 0 } // entity (atdm_ai_townsfolk_female_1)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // patch (Patch)
+		Node { 0 } // patch (Patch)
+		Node { 0 } // patch (Patch)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
 		Node { 0 } // entity (atdm_door_96x48_2hinge_1)
 		Node { 0 } // entity (atdm_door_96x48_2hinge_2)
 		Node { 0 } // entity (atdm_door_96x48_2hinge_3)
@@ -271,27 +308,32 @@ DarkRadiant Map Information File Version 2
 		Node { 0 } // entity (func_static_19)
 		Node { 0 } // entity (func_static_27)
 		Node { 0 } // entity (func_static_28)
-	}
-	SelectionGroups
-	{
-		SelectionGroup 3 { "" }
-	}
-	SelectionGroupNodeMapping
-	{
-		Node { ( 0 101 ) ( 3 ) } // brush (Brush)
-		Node { ( 0 102 ) ( 3 ) } // patch (Patch)
-		Node { ( 0 103 ) ( 3 ) } // brush (Brush)
-		Node { ( 0 104 ) ( 3 ) } // brush (Brush)
-		Node { ( 0 105 ) ( 3 ) } // brush (Brush)
-		Node { ( 0 106 ) ( 3 ) } // brush (Brush)
-		Node { ( 0 107 ) ( 3 ) } // brush (Brush)
-		Node { ( 0 108 ) ( 3 ) } // brush (Brush)
-		Node { ( 103 ) ( 3 ) } // entity (func_static_519)
-		Node { ( 104 ) ( 3 ) } // entity (func_static_521)
-		Node { ( 105 ) ( 3 ) } // entity (light_29)
-		Node { ( 106 ) ( 3 ) } // entity (light_30)
-		Node { ( 107 ) ( 3 ) } // entity (info_portalsky_1)
-		Node { ( 108 ) ( 3 ) } // entity (light_118)
-		Node { ( 109 ) ( 3 ) } // entity (func_static_539)
+		Node { 0 } // entity (atdm_door_96x48_2hinge_5)
+		Node { 0 } // entity (func_static_29)
+		Node { 0 } // entity (func_static_30)
+		Node { 0 } // entity (func_static_31)
+		Node { 0 } // entity (func_static_32)
+		Node { 0 } // entity (func_static_33)
+		Node { 0 } // entity (func_static_34)
+		Node { 0 } // entity (atdm_door_96x48_2hinge_6)
+		Node { 0 } // entity (func_static_35)
+		Node { 0 } // entity (func_static_36)
+		Node { 0 } // patch (Patch)
+		Node { 0 } // patch (Patch)
+		Node { 0 } // patch (Patch)
+		Node { 0 } // entity (func_static_37)
+		Node { 0 } // patch (Patch)
+		Node { 0 } // patch (Patch)
+		Node { 0 } // entity (speaker_1)
+		Node { 0 } // entity (func_emitter_3)
+		Node { 0 } // entity (info_locationSeparator_1)
+		Node { 0 } // entity (info_locationSeparator_2)
+		Node { 0 } // entity (info_location_1)
+		Node { 0 } // entity (info_location_2)
+		Node { 0 } // entity (info_location_3)
+		Node { 0 } // entity (func_static_115)
+		Node { 0 } // entity (func_static_117)
+		Node { 0 } // entity (func_static_118)
+		Node { 0 } // entity (func_static_38)
 	}
 }

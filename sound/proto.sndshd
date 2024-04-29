@@ -1,0 +1,17 @@
+// AMBIENCE
+
+proto_babyoffice
+{
+	global
+	omnidirectional
+	looping
+	sound/ambient/ambience/proto_babyoffice.ogg
+} 
+
+// ENVIRONMENTAL
+
+proto_rain_indoors_1
+{
+	looping
+	sound/ambient/ambience/environmental/proto_rain_indoors_1.ogg
+} 
