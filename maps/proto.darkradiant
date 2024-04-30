@@ -2,22 +2,16 @@ DarkRadiant Map Information File Version 2
 {
 	MapProperties
 	{
-		KeyValue { "EditTimeInSeconds" "9451" } 
-		KeyValue { "LastCameraAngle" "6.71988 -11.951 0" } 
-		KeyValue { "LastCameraPosition" "0 0 30" } 
-		KeyValue { "LastShaderClipboardMaterial" "textures/darkmod/paint_paper/wallpaper_victorian_01" } 
-	}
-	SelectionSets
-	{
+		KeyValue { "EditTimeInSeconds" "12020" } 
+		KeyValue { "LastCameraAngle" "-13.1764 198.263 0" } 
+		KeyValue { "LastCameraPosition" "173.102 252.032 76.2276" } 
+		KeyValue { "LastShaderClipboardMaterial" "textures/darkmod/paint_paper/wallpaper_ornamental_01_blue" } 
 	}
 	MapEditTimings
 	{
-		TotalSecondsEdited { 9451 }
+		TotalSecondsEdited { 12020 }
 	}
-	SelectionGroups
-	{
-	}
-	SelectionGroupNodeMapping
+	SelectionSets
 	{
 	}
 	Layers
@@ -158,6 +152,20 @@ DarkRadiant Map Information File Version 2
 		Node { 0 } // patch (Patch)
 		Node { 0 } // patch (Patch)
 		Node { 0 } // patch (Patch)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
 		Node { 0 } // brush (Brush)
 		Node { 0 } // brush (Brush)
 		Node { 0 } // brush (Brush)
@@ -346,5 +354,25 @@ DarkRadiant Map Information File Version 2
 		Node { 0 } // entity (speaker_2)
 		Node { 0 } // entity (atdm_loot_coinstack_medium_silver_1)
 		Node { 0 } // entity (func_static_39)
+		Node { 0 } // entity (atdm_sphere_brass_wall_curved_1)
+		Node { 0 } // entity (func_static_40)
+		Node { 0 } // entity (func_static_41)
+		Node { 0 } // entity (func_static_42)
+		Node { 0 } // entity (func_static_43)
+		Node { 0 } // entity (func_static_44)
+		Node { 0 } // entity (func_static_45)
+		Node { 0 } // entity (func_static_46)
+		Node { 0 } // entity (func_static_47)
+		Node { 0 } // entity (func_static_48)
+		Node { 0 } // entity (func_static_49)
+		Node { 0 } // entity (func_static_50)
+		Node { 0 } // entity (atdm_moveable_basket_straw_small_1)
+		Node { 0 } // entity (atdm_sphere_brass_wall_twin_1)
+	}
+	SelectionGroups
+	{
+	}
+	SelectionGroupNodeMapping
+	{
 	}
 }
